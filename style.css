@@ -2,10 +2,6 @@ body {
     background-image: url(./img/4.jpg);
 }
 
-h1 {
-    color: red;
-}
-
 h4 {
     color: white;
 }
@@ -16,7 +12,7 @@ h4 {
 }
 .prof
 {
-    color: rgb(211, 181, 181);
+    color: rgb(219, 42, 42);
 }
 #img 
 {
