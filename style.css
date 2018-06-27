@@ -16,9 +16,25 @@ h4 {
 }
 .prof
 {
-    color: brown;
+    color: rgb(211, 181, 181);
 }
-img 
+#img 
 {
     border-radius: 50%;
+}
+#font1
+{
+    font-style: italic;
+}
+
+.txt
+{
+    color: yellowgreen;
+    font-family: cursive;
+}
+.txt2
+{
+    color: rgb(88, 220, 230);
+    font-family: Helvetica;
+    text-align: center;
 }
