@@ -9,6 +9,16 @@ h1 {
 h4 {
     color: white;
 }
-p {
+
+.nom
+{
     color : yellow;
+}
+.prof
+{
+    color: brown;
+}
+img 
+{
+    border-radius: 50%;
 }
