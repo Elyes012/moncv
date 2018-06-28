@@ -7,7 +7,7 @@
     border: 2px solid #f5f1f1;
 }
 
-.page {
+#page {
     height: 200px;
     background: red; 
     background: linear-gradient(red, yellow); 
