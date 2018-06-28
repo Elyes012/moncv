@@ -1,0 +1,71 @@
+
+.pos
+{
+    position: relative;
+    width: 200px;
+    height: 100px;
+    border: 2px solid #f5f1f1;
+}
+
+.page {
+    height: 200px;
+    background: red; 
+    background: linear-gradient(red, yellow); 
+}
+
+.vps
+{
+    position: absolute;
+    top: 10px;
+    left: 50px;
+}
+.pos
+{
+    position: absolute;
+    top: 60px;
+    left: 20px;
+}  
+
+.month
+{ 
+    width: 200px; 
+    border: 1px solid #f5f1f1;
+    overflow: hidden;
+    text-overflow: clip;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+    color: black
+}
+
+.price
+{ 
+    width: 200px; 
+    border: 1px solid #f5f1f1;
+    overflow: hidden;
+    text-overflow: clip;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+    color: black
+}
+.os
+{ 
+    width: 200px; 
+    border: 1px solid #f5f1f1;
+    overflow: hidden;
+    text-overflow: clip;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+    color: black
+}
+.bank
+{ 
+    width: 200px; 
+    border: 1px solid #f5f1f1;
+    overflow: hidden;
+    text-overflow: clip;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+    color: black
+}
+ 
+ 
